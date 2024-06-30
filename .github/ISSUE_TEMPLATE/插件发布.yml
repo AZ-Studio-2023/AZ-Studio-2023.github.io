@@ -2,7 +2,7 @@ name: 插件发布
 description: 插件发布模板
 title: 插件名称及版本
 labels: []
-assignees: ''
+assignees: ""
 
 body:
   - type: input
