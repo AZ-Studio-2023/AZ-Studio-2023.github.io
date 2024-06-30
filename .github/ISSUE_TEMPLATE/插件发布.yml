@@ -34,3 +34,11 @@ body:
     attributes:
       label: "下载地址"
       description: "请输入插件的下载地址"
+
+  - type: input
+    id: plugin_type
+    validations:
+      required: true
+    attributes:
+      label: "插件类型"
+      description: "请输入插件的类型，并设置对应标签"
