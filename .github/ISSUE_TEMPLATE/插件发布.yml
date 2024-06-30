@@ -1,0 +1,41 @@
+---
+name: 插件发布
+about: 插件发布模板
+title: Your plugin name
+labels: ''
+assignees: ''
+
+---
+body:
+- inputs:
+  - type: input
+    id: plugin_name
+    validations:
+      required: true
+    attributes:
+      label: "插件名称"
+      description: "请输入插件的名称"
+  
+  - type: input
+    id: plugin_version
+    validations:
+      required: true
+    attributes:
+      label: "插件版本"
+      description: "请输入插件的版本号"
+
+  - type: textarea
+    id: plugin_description
+    validations:
+      required: true
+    attributes:
+      label: "插件简介"
+      description: "请提供插件的简介"
+  
+  - type: input
+    id: download_url
+    validations:
+      required: true
+    attributes:
+      label: "下载地址"
+      description: "请输入插件的下载地址"
