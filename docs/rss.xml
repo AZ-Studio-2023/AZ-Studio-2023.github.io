@@ -1,2 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://AZ-Studio-2023.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://AZ-Studio-2023.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 16:13:03 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://AZ-Studio-2023.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://AZ-Studio-2023.github.io</link></image><lastBuildDate>Mon, 01 Jul 2024 16:12:50 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>API插件示例</title><link>https://AZ-Studio-2023.github.io/post/API-cha-jian-shi-li.html</link><description>### 插件名称
+
+API插件示例
+
+### 插件版本
+
+v1.0
+
+### 插件简介
+
+一个API示例插件
+
+### 下载地址
+
+https://pan.zenglingkun.cn/s/p76T9
+
+### 插件类型
+
+api。</description><guid isPermaLink="true">https://AZ-Studio-2023.github.io/post/API-cha-jian-shi-li.html</guid><pubDate>Mon, 01 Jul 2024 04:34:18 +0000</pubDate></item></channel></rss>
